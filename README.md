@@ -33,7 +33,7 @@ The website uses CabYetu's brand colors:
 
 ## Setup and Maintenance
 
-This website is built using Adobe Dreamweaver templates. The main template file is located at `/Template/main.dwt`. To make changes that apply to all pages, edit this template file and update all pages.
+This website is built using Adobe Dreamweaver templates. The main template file is located at `/Templates/main.dwt`. To make changes that apply to all pages, edit this template file and update all pages.
 
 ## Contact
 

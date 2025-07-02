@@ -52,7 +52,7 @@ ul {
 header {
   background-color: var(--secondary-color);
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-  padding: 15px 0;
+  padding: 22px 0;
   position: fixed;
   width: 100%;
   top: 0;
@@ -83,10 +83,9 @@ header .container {
 }
 
 .logo-img {
-  max-height: 50px;
+  max-height: 90px;
   width: auto;
   margin-right: 15px;
-  filter: drop-shadow(0 0 5px rgba(254, 198, 37, 0.5));
   transition: all 0.3s ease;
 }
 
@@ -96,7 +95,7 @@ header .container {
 }
 
 .logo-name {
-  font-size: 1.8rem;
+  font-size: 2.2rem;
   font-weight: 700;
   color: var(--primary-color);
   letter-spacing: 1px;
@@ -107,14 +106,14 @@ header .container {
 }
 
 .logo-tagline {
-  font-size: 0.9rem;
+  font-size: 1.1rem;
   color: var(--white-color);
   font-style: italic;
 }
 
 .logo-link:hover .logo-img {
   transform: scale(1.05);
-  filter: drop-shadow(0 0 8px rgba(254, 198, 37, 0.7));
+
 }
 
 .logo-link:hover .logo-name {
@@ -142,7 +141,7 @@ nav ul li a:hover {
 
 /* Main Content Styles */
 main {
-  padding-top: 100px;
+  padding-top: 140px;
   min-height: calc(100vh - 200px);
 }
 
