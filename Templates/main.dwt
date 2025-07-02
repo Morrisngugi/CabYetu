@@ -19,16 +19,12 @@
         <a href="../index.html" class="logo-link">
           <div class="logo-wrapper">
             <img src="../images/YETU_LOGO.png" alt="CabYetu Logo" class="logo-img">
-            <div class="logo-text">
-              <span class="logo-name">CabYetu</span>
-              <span class="logo-tagline">Your Ultimate Ride</span>
-            </div>
           </div>
         </a>
       </div>
       <nav>
         <ul>
-          <li><a href="../index.html">Home</a></li>
+          <li><a href="../index.html">Home1</a></li>
           <li><a href="../about.html">About Us</a></li>
           <li><a href="../services.html">Services</a></li>
           <li><a href="../contact.html">Contact Us</a></li>
